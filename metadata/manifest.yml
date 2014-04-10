@@ -43,6 +43,8 @@ Publishes:
 Scaling:
   Min: 1
   Max: 1
+Metrics:
+- uptime
 Endpoints:
   - Private-IP-Name:   DB_HOST
     Private-Port-Name: DB_PORT
